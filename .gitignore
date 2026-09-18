@@ -1,0 +1,13 @@
+backend/.env
+backend/data.json
+backend/crmserver
+backend/crmserver.exe
+backend/server.log
+*.exe
+
+# frontend
+frontend/node_modules
+frontend/dist
+frontend/devserver.log
+frontend/.env
+
